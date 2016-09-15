@@ -2,7 +2,7 @@
 
 source token
 
-FILE="/home/sergiu/SAVED_EVENTS"
+FILE='SAVED_EVENTS'
 
 SAVED=$(cat $FILE)
 
